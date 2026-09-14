@@ -127,6 +127,7 @@ export const portfolioData: PortfolioData = {
           ar: 'شارك في مراقبة فحص المعدات وتشخيص الأعطال وأنشطة الصيانة الخاصة بالمضخات والمحامل وصناديق التروس والسيور الناقلة والأنظمة الهيدروليكية.',
         },
       ],
+      certificateUrl: '/documents/suez-steel-training-certificate.pdf',
     },
     {
       id: 'exp-mdc',
