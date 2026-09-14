@@ -101,6 +101,40 @@ export const portfolioData: PortfolioData = {
   ],
 
   experience: [
+     {
+  id: 'exp-gasco',
+  company: 'Egyptian Natural Gas Company (GASCO)',
+  role: {
+    en: 'Gas Facilities Engineering Trainee',
+    ar: 'متدرب هندسة منشآت الغاز',
+  },
+  location: {
+    en: 'Fifth Settlement, New Cairo, Egypt',
+    ar: 'التجمع الخامس، القاهرة الجديدة، مصر',
+  },
+  periodStart: '2026-08-03',
+  periodEnd: '2026-08-26',
+  period: {
+    en: 'August 3, 2026 – August 26, 2026',
+    ar: '3 أغسطس 2026 – 26 أغسطس 2026',
+  },
+  year: 2026,
+  details: [
+    {
+      en: 'Completed a 144-hour summer training program within the Gas Facilities Department, gaining valuable exposure to a professional industrial environment and real-world engineering operations.',
+      ar: 'أتممت برنامجًا تدريبيًا صيفيًا لمدة 144 ساعة داخل إدارة منشآت الغاز، واكتسبت خبرة قيّمة في بيئة صناعية احترافية وعمليات هندسية واقعية.',
+    },
+    {
+      en: 'Developed a stronger understanding of gas facility operations, engineering practices, workplace safety, and technical workflows within the natural gas industry.',
+      ar: 'طورت فهمًا أقوى لعمليات منشآت الغاز والممارسات الهندسية والسلامة المهنية ومسارات العمل الفنية في صناعة الغاز الطبيعي.',
+    },
+    {
+      en: 'Enhanced technical and professional skills through practical guidance, career development sessions, and an applied workshop on the effective use of artificial intelligence in engineering careers.',
+      ar: 'عززت مهاراتي التقنية والمهنية من خلال التوجيه العملي وجلسات التطوير الوظيفي وورشة تطبيقية حول الاستخدام الفعال للذكاء الاصطناعي في المجالات الهندسية.',
+    },
+  ],
+  certificateUrl: '/documents/gasco-training-certificate.pdf',
+},
     {
       id: 'exp-suez-steel',
       company: 'Suez Steel Company',
