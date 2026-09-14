@@ -23,7 +23,7 @@ export const portfolioData: PortfolioData = {
       ar: 'القاهرة، مصر',
     },
     monogram: 'AH',
-    photoUrl: '/images/profile/ahmed-hani-photo.jpg',
+    photoUrl: '/images/profile/profile.jpg',
     photoAlt: {
       en: 'Portrait of Ahmed Hani Abdel Halim El-Gohary',
       ar: 'صورة شخصية لأحمد هاني عبد الحليم الجوهري',
@@ -43,7 +43,7 @@ export const portfolioData: PortfolioData = {
       ar: 'القاهرة، مصر',
     },
     linkedin: 'https://www.linkedin.com/in/ahmed-hani-algohary',
-    cvPath: '/Ahmed-Hani-CV.pdf',
+    cvPath: '/ahmed-hani-CV.pdf',
   },
 
   socialLinks: [
